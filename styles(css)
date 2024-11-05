@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            img {
+                width: 300px;
+                border-radius: 10px;
+            }
+             p {
+              font-size:x-large;
+              }
+              em {
+                color: blue;
+                font-size: x-large;
+              }
+              strong {
+                color: blue;
+              } 
+              body{
+                min-height: 100vh;
+            background-image: url(webphoto1.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+              }    
+        </style>
+    </head>
+</html>
